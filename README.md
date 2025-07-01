@@ -30,3 +30,4 @@ Generating Top-N recommendations per user
 
 # OUTPUT
 
+![Image](https://github.com/user-attachments/assets/cb38c751-2564-40a1-be5e-6f8400afac35)
